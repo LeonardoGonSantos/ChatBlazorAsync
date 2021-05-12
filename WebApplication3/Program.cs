@@ -9,7 +9,7 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace WebApplication3
+namespace BlazorChat
 {
     public class Program
     {

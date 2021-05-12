@@ -10,9 +10,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using WebApplication3.Data;
+using BlazorChat.Data;
 
-namespace WebApplication3
+namespace BlazorChat
 {
     public class Startup
     {

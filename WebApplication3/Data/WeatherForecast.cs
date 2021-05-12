@@ -1,6 +1,6 @@
 using System;
 
-namespace WebApplication3.Data
+namespace BlazorChat.Data
 {
     public class WeatherForecast
     {
